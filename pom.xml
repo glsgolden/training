@@ -8,6 +8,7 @@
   <modules>
   	<module>training-java8</module>
     <module>spring-mvc</module>
+    <module>training-angularJS</module>
   </modules>
   
   	<dependencies>
